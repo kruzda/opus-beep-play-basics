@@ -1,4 +1,4 @@
-module github.com/kruzda/beepbeep
+module github.com/kruzda/opus-beep-play-basics
 
 go 1.15
 
